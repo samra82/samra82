@@ -2,7 +2,7 @@
 - ⚡ education: I'm a student of class 10 + I'm learning programming languages through mam iqra in governer house
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on programming languages
-  😄 Pronouns: she/her;
+- 😄 Pronouns: she/her;
 - 👀 I’m interested in coding,graphics,painting ...
 
 <!---
