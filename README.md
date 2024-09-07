@@ -1,5 +1,5 @@
 - 👋 Hi, I’m samra
-- ⚡ education: I'm a student of class 10 + I'm learning programming languages through mam iqra in governer house
+- ⚡ education: I'm a student of class 10 + I'm learning programming languages through sir ali jawwad in governer house and learning UI/UX designing in SMIT
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on programming languages
 - 📖 Reach me: samrashafiq82@gmail.com
