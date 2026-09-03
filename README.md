@@ -31,11 +31,10 @@ I am a self-taught AI web engineer based in Karachi, Pakistan, building software
 
 My core day-to-day workflow centers around building responsive, highly animated frontends in **Next.js** and pairing them with high-performance **Python + FastAPI** backends.
 
-```mermaid
-graph TD
-    A[Next.js / React UI] -->|REST APIs| B[FastAPI / Python]
-    B -->|Data & Orchestration| C[MongoDB / Node / Supabase / AI Workflows]
-```
+<p align="center">
+  <img width="288" height="294" alt="frame chart" src="https://github.com/user-attachments/assets/ececd352-acf5-408d-9e8f-453a1d3188ec" />
+</p>
+
 ---
 | Domain | Technologies |
 | :--- | :--- |
